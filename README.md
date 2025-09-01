@@ -31,3 +31,8 @@ The Supply Chain Analytics Dashboard is designed to provide comprehensive visi
 10.Overstock,out-of-stock,Under stock
 
 10.Purchase method wise sales
+## Dashboards
+<a href="https://github.com/Mona-gracy7/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-02%20014246.png">Excel Dashboard</a>
+<a href="https://github.com/Mona-gracy7/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20214043.png">PowerBI Dashboard</a>
+<a href="https://github.com/Mona-gracy7/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20214341.png">Tableau Dashboard</a>
+<a href="https://github.com/Mona-gracy7/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20214532.png">Tableau Dashboard</a>

@@ -11,13 +11,23 @@ The Supply Chain Analytics Dashboard is designed to provide comprehensive visi
 - <a href="https://github.com/Mona-gracy7/Data-Analysis-Dashboard/blob/main/F_POINT_OF_SALE.xlsx">Supply chain analytics</a>
 ## KPI's
 1.Total Sales(MTD,QTD,YTD)
+
 2.Product Wise Sales
+
 3.Sales Growth
+
 4.daily sales trend
+
 5..State wise sales
+
 6.Top 5 store wise sales
+
 7.Region wise sales
+
 8.Total inventory
+
 9.Inventory value
+
 10.Overstock,out-of-stock,Under stock
+
 10.Purchase method wise sales

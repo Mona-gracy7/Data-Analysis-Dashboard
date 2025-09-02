@@ -56,5 +56,15 @@ The Supply Chain Analytics Dashboard is designed to provide comprehensive visi
 -  Connected tableau to our data, On separate sheets created individual visualizations[Bar charts,line graphs, maps].
 -  By dragging and dropping data fields onto the canvas. Each worksheet focuses on a specific aspect of the data.
 -  After the creation of worksheets.. Dashboard has been created.
+  ## Project Insight
+  The analysis shows total sales of 388M across 37 states with1096 products and an inventory of 1905 items valued at 222K.
+  Arts and Entertainment products have the highest sales , while mobiles have the lowest.
   
-  
+The West region leads in sales , with California as the top state.
+Woodland store has the highest sales and York has the lowest.
+
+To boost overall sales , focus should be on selling overstocked products and ensuring understocked products are available in stores.
+
+This strategy is expected to improve yearly and store-wise sales growth
+
+

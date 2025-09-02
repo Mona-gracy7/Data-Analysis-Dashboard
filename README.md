@@ -38,9 +38,12 @@ The Supply Chain Analytics Dashboard is designed to provide comprehensive visi
 <a href="https://github.com/Mona-gracy7/Data-Analysis-Dashboard/blob/main/Screenshot%202025-05-15%20214532.png">Tableau Dashboard</a>
 ## Process For Excel Dashboard
 -Verify data for missing values and anomalies and sort out the same.
+
 -Made sure data is consistent and clean with respect to data type,data format and values used
 -Created pivot tables according to questions asked
+
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
   ## Process for PowerBI Dashboard
   -Connected the excel files ,then used Power query editor to clean and transform the data.
   -After loading of the data ..Created the report in PowerBi desktop
